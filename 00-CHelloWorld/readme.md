@@ -6,4 +6,5 @@ Apellido: Perez Mendoza
 
 Nombre: Matias Nahuel Alejandro 
 
-compilador: CLion 2023.1.1  
+compilador: gcc
+
