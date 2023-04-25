@@ -6,5 +6,7 @@ Apellido: Perez Mendoza
 
 Nombre: Matias Nahuel Alejandro 
 
-compilador: gcc
+
+Compilador usado : MinGW x64 / GCC
+
 
